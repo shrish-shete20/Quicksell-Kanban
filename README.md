@@ -1,1 +1,1 @@
-# Quicksell-Kanban
+Quicksell Frontend Assignment
